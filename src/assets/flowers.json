@@ -1,0 +1,102 @@
+[
+    {
+      "id": 0,
+      "imageUrl": "https://i.ibb.co/G3Z4kHV/10.jpg",
+      "title": "Тюльпаны Желтые",
+      "types": [0, 1],
+      "sizes": [20],
+      "price": 803,
+      "category": 3,
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://i.ibb.co/3F4v0Yg/9.jpg",
+      "title": "Ромашки в корзинке",
+      "types": [0, 1],
+      "sizes": [25],
+      "price": 245,
+      "category": 5,
+      "rating": 6
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://i.ibb.co/xXRvbSH/8.jpg",
+      "title": "Белые Розы",
+      "types": [0, 1],
+      "sizes": [25, 35, 40],
+      "price": 295,
+      "category": 1,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://i.ibb.co/5kDQPH9/7.jpg",
+      "title": "Королевские Лилии",
+      "types": [0, 1],
+      "sizes": [25, 30],
+      "price": 275,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://i.ibb.co/4NVL2dQ/6.jpg",
+      "title": "Тюльпаны Алые",
+      "types": [0, 1],
+      "sizes": [25],
+      "price": 415,
+      "category": 3,
+      "rating": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://i.ibb.co/tz60xR5/5.jpg",
+      "title": "Белые Лилии",
+      "types": [0, 1],
+      "sizes": [25],
+      "price": 580,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://i.ibb.co/1Kb39tm/4.jpg",
+      "title": "Красные Розы",
+      "types": [0, 1],
+      "sizes": [25, 30, 35],
+      "price": 675,
+      "category": 1,
+      "rating": 9
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://i.ibb.co/nMdDpRy/3.jpg",
+      "title": "Пионы Розовые",
+      "types": [0, 1],
+      "sizes": [25],
+      "price": 450,
+      "category": 4,
+      "rating": 10
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://i.ibb.co/88fTLLD/1.jpg",
+      "title": "Пионы Белые",
+      "types": [0, 1],
+      "sizes": [25, 30],
+      "price": 395,
+      "category": 4,
+      "rating": 10
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://i.ibb.co/cy0xt04/2.jpg",
+      "title": "Ромашки",
+      "types": [0, 1],
+      "sizes": [25],
+      "price": 285,
+      "category": 5,
+      "rating": 7
+    }
+  ]
